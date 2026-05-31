@@ -33,3 +33,7 @@ A console-based Student Management System developed using Core Java. The applica
 
 2. Run the application:
    java StudentManagementSystem
+
+   ## Output Screenshot
+
+![Output](screenshot.png)
