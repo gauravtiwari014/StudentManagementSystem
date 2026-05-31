@@ -36,4 +36,4 @@ A console-based Student Management System developed using Core Java. The applica
 
    ## Output Screenshot
 
-(Student.jpeg)
+!Output (Student.jpeg)
